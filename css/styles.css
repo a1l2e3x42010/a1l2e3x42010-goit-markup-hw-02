@@ -35,19 +35,19 @@ letter-spacing: 0.02em;
 color: #FFFFFF;}
 
     .title {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
         letter-spacing: 0.02em;
-        color: #2E2F42; 
+        color:#2E2F42
         }
-        
+
  .title1 {
 font-weight: 500;
  font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
- color: #2E2F42; 
+ color: #2E2F42 
 }      
         .suptitle {
         font-weight: 400;
