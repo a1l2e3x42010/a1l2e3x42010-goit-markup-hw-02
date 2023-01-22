@@ -1,4 +1,4 @@
-.body {
+ body {
     font-family: 'Roboto', sans-serif;   
 }
 .head-page {
@@ -123,10 +123,18 @@ text-decoration-line: none;
 .hero-but:focus {
  background: #404BBF;   
 }
-
+.but-site-menu {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color:#4D5AE5;
+    text-decoration-line: none;
+ background: #F4F4FD;    
+}
 .but-site-menu:hover,
 .but-site-menu:focus{
-    background-color: #404BBF;
+    background-color: #4D5AE5;
+    color: #FFFFFF
 }
 
 /* Body */
