@@ -121,7 +121,8 @@ text-decoration-line: none;
     }
 .hero-but:hover,
 .hero-but:focus {
- background: #404BBF;   
+ background: #404BBF;
+ cursor: pointer;   
 }
 .but-site-menu {
     font-weight: 500;
@@ -134,7 +135,8 @@ text-decoration-line: none;
 .but-site-menu:hover,
 .but-site-menu:focus{
     background-color: #4D5AE5;
-    color: #FFFFFF
+    color: #FFFFFF;
+cursor: pointer;
 }
 
 /* Body */
